@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rectangle-man
+- 👋 Hi, I’m Shaan.
 - 👀 I’m interested in learning new stuffs.
 - 🌱 I’m currently learning data structures and algorithms in C++ and Python
 - 💞️ I’m looking to collaborate on various projects which don't require high in depth skills and knowledge of any specific language.
