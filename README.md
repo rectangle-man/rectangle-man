@@ -1,10 +1,31 @@
-- 👋 Hi, I’m Shaan.
-- 👀 I’m interested in learning new stuffs.
-- 🌱 I’m currently learning data structures and algorithms in C++ and Python
-- 💞️ I’m looking to collaborate on various projects which don't require high in depth skills and knowledge of any specific language.
-- 📫 Contact me through my email: shaangoogly@gmail.com
+# I'm Shaan
 
-<!---
-rectangle-man/rectangle-man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I'm a passionate Data Science, Machine Learning and Deep Learning enthusiast, with a focus on building intelligent systems that can learn from data. My journey has led me through various domains of AI, and I'm now aiming to specialize in **Data Science/Machine Learning/Deep Learning** to push the boundaries of what's possible with neural networks and data-driven insights.
+
+## Tech Stack
+
+### Data Science
+- **Data Manipulation:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Statistical Analysis:** Scikit-learn, SciPy, Statsmodels
+- **Big Data:** Apache Spark, Hadoop
+- **SQL/NoSQL Databases:** MySQL, PostgreSQL, MongoDB
+
+### Machine Learning / Deep Learning
+- **Frameworks:** TensorFlow, PyTorch, Keras
+- **Algorithms:** CNNs, RNNs, Transformers, GANs, VAEs
+
+### Web Development
+- **Frontend:** ReactJS, AngularJS
+- **Backend:** Springboot, Node.js, RESTful APIs
+
+### Tools
+- **Version Control:** Git, GitHub
+- **Data Processing:** NumPy, Pandas, Matplotlib, Seaborn
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/shaan-chandra)
+
+
