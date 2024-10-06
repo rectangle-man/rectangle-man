@@ -25,7 +25,7 @@ I'm a passionate Data Science, Machine Learning and Deep Learning enthusiast, wi
 - **Version Control:** Git, GitHub
 - **Data Processing:** NumPy, Pandas, Matplotlib, Seaborn
 
-## 📫 Let's Connect!
+## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/shaan-chandra)
 
 
